@@ -1,0 +1,19 @@
+{
+  "name": "js-codes",
+  "version": "1.0.0",
+  "description": "basic backend code ",
+  "main": "backend1.js",
+  "scripts": {
+    "start": "node backend1.js"
+  },
+  "keywords": [
+    "node",
+    "code"
+  ],
+  "author": "shitij bharti goswami",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
